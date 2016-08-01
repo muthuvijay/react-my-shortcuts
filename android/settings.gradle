@@ -1,0 +1,3 @@
+rootProject.name = 'myshortcuts'
+
+include ':app'
